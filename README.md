@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bhargav-25
-- 👀 I’m interested in Robotics, Design
+- 👀 I’m interested in Robotics, Mechanical Design
 - 🌱 I’m currently learning AI for Robots
-- 💞️ I’m looking to collaborate on Test case on Robotics
 - 📫 How to reach me gbhargav257@gmail.com
 
 <!---
